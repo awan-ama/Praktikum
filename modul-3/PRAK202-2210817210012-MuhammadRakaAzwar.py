@@ -1,0 +1,6 @@
+a = input("Masukkan Nilai Pertama : ")
+a = float (a)
+b = input("Masukkan Nilai Kedua   : ")
+b = float (b)
+print(" ")
+print("Hasil dari penjumlahan nilai pertama %.2f dan nilai kedua %.2f adalah %.2f" % (a, b, a+b))
